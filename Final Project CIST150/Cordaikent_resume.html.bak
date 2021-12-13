@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Online Portfolio</title>
+<link rel="stylesheet" type="text/css" href="Portfoliostyle.css" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">Cordai Kent</a></h1>
+		</div>
+		<div id="menu">
+		  <ul>
+				<li><a href="CordaiKent_HomePage.html">Homepage</a></li>
+				<li><a href="Cordaikent_resume.html">r&eacute;sum&eacute;</a></li>
+				<li><a href="CordaiKent_projects.html">Projects</a></li>
+				<li><a href="=Cordaikent_contact.html">Contacts</a></li>
+		  </ul>
+			<br class="clearfix" />
+		</div>
+	</div>
+	<div id="page">
+		<div id="content">
+			<div class="box">
+				<h2>r&eacute;sum&eacute;</h2>
+				<p></p>
+			
+			</div>
+			<div class="box">
+				<h3>Job History</h3>
+				<P>I dont have much job history If I am being completely honest. I have just recentyl started my First job during the summer working at a near by grocery store.
+				</P>
+			</div>
+			<div class="box">
+				<h4>Educational history</h4>
+				<p>I have completed highschool and have received my diploma for graduating. Now I am currently working on recieved a degree in computer programing. This is my 2nd year in college at Southern Cresecent Technical.
+					I am half way finished with getting my degree I should finish by next year.
+				</p>
+			</div>
+			
+			<br class="clearfix" />
+		</div>
+		
+		<br class="clearfix" />
+	</div>
+</div>
+<div id="footer">
+	Copyright (c) 2021 Cordai Kent</a>.
+</div>
+</body>
+</html>

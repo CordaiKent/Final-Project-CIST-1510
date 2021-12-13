@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Online Portfolio</title>
+<link rel="stylesheet" type="text/css" href="Portfoliostyle.css" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">Cordai Kent</a></h1>
+		</div>
+		<div id="menu">
+		  <ul>
+				<li><a href="CordaiKent_HomePage.html">Homepage</a></li>
+				<li><a href="Cordaikent_resume.html">r&eacute;sum&eacute;</a></li>
+				<li><a href="CordaiKent_projects.html">Projects</a></li>
+				<li><a href="=Cordaikent_contact.html">Contacts</a></li>
+		  </ul>
+			<br class="clearfix" />
+		</div>
+	</div>
+	<div id="page">
+		<div id="content">
+			<div class="box">
+				<h2>Welcome</h2>
+				<p>My name is Cordai Kent. This is my 2nd year at Southern Crescent Technical College. I am pursuing a degree in computer programming while attending this campus. The reason I am enrolled at college is because I want to aquire the skills needed to create a software and also a game.I hope that this online portfolio of me will help aid with that. </p>
+			</div>
+			
+			
+			<br class="clearfix" />
+		</div>
+		
+		<br class="clearfix" />
+	</div>
+</div>
+<div id="footer">
+	Copyright (c) 2021 Cordai Kent. </a>.
+</div>
+</body>
+</html>
